@@ -15,5 +15,5 @@
 
 HOW TO REACH ME?
 <a href="https://www.facebook.com/profile.php?id=100005111586896">
-  <img 	https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white> 
+  <img 	src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"> 
 </a>
