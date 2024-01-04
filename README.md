@@ -20,5 +20,5 @@ HOW TO REACH ME? <br><br>
   <img 	src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"> 
 </a>
 <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
-  <img scr="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <img scr="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=red">
 </a>
