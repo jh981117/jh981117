@@ -15,7 +15,7 @@
 
 <hr>
 
-HOW TO REACH ME? <br>
+HOW TO REACH ME? <br><br>
 <a href="https://www.facebook.com/profile.php?id=100005111586896">
   <img 	src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"> 
 </a>
