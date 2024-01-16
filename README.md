@@ -20,3 +20,7 @@ HOW TO REACH ME? <br><br>
   <img 	src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"> 
 </a>
 
+<hr>
+GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jh981117&theme=tokyonight)](https://git.io/streak-stats)
