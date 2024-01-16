@@ -12,10 +12,17 @@
 ![AMAZON AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![POWERPOINT](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![SPRING SECURITY](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
+![VISUAL STUDIO CODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![REACT](https://img.shields.io/badge/-61DAFB?style=for-the-badge&logo=React&logoColor=white)
+
+
+
+
 
 <hr>
 
-<h1>HOW TO REACH ME?<h1></h1> <br><br>
+<h1>HOW TO REACH ME?</h1> <br><br>
 <a href="https://www.facebook.com/profile.php?id=100005111586896">
   <img 	src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"> 
 </a>
