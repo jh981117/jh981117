@@ -1,4 +1,4 @@
-### Hi there 👋
+### <h1>Hi there 👋<h1>
 
 ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) 
 ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -15,12 +15,12 @@
 
 <hr>
 
-HOW TO REACH ME? <br><br>
+<h1>HOW TO REACH ME?<h1></h1> <br><br>
 <a href="https://www.facebook.com/profile.php?id=100005111586896">
   <img 	src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"> 
 </a>
 
 <hr>
-GitHub Stats
+<h1>GitHub Stats</h1>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jh981117&theme=tokyonight)](https://git.io/streak-stats)
