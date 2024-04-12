@@ -39,6 +39,12 @@
   <a href="https://github.com/jh981117/EatTable_Backend">🔗 프론트엔드 바로가기</a> |
   <a href="https://github.com/jh981117/Eatable_App_Frontend">🔗 백엔드 바로가기</a>
 </p>
+
+<p>
+  <a href=" https://www.youtube.com/watch?app=desktop&v=KxYGJm4qiCs&list=PLedGoSru794_gV9NDzrzhk2PsJGThG23p&index=2&t">
+    Eatable 프로젝트 발표 영상</a>
+</p>
+
 <h3>Outline</h3>
 <p>
   
