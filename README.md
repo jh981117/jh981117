@@ -39,12 +39,11 @@
   <a href="https://github.com/jh981117/EatTable_Backend">🔗 프론트엔드 바로가기</a> |
   <a href="https://github.com/jh981117/Eatable_App_Frontend">🔗 백엔드 바로가기</a>
 </p>
-<hr>
-<h2>Outline</h2>
+<h3>Outline</h3>
 <p>
   해외 공연/관광지 일정 사전 검색 및 항공편을 동일 사이트에서 확인 가능하여 일정 관리를 수월하게 할 수 있게 하기 위함.
 </p>
-<h2>Use Stack</h2>
+<h3>Use Stack</h3>
 <ul>
   <li>프론트엔드: HTML, CSS, BootStrap, JavaScript</li>
   <li>백엔드: JAVA, Servlet, MyBatis, OAUTH2, Spring Boot</li>
