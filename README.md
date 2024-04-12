@@ -34,6 +34,9 @@
 <h2>1. 핫도리 프로젝트</h2>
 <a href="https://github.com/jh981117/HotProject">프로젝트 바로가기</a>
 <h2>2. Eatable 프로젝트</h2>
+<a href="[https://github.com/jh981117/HotProject](https://github.com/jh981117/Eatable_App_Frontend)">프론트 바로가기</a>
+<a href=["https://github.com/jh981117/HotProject"](https://github.com/jh981117/EatTable_Backend)>백 바로가기</a>
+                  
 
 
 
