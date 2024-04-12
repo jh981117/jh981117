@@ -41,8 +41,8 @@
 </p>
 
 <p>
-  <a href=" https://www.youtube.com/watch?app=desktop&v=KxYGJm4qiCs&list=PLedGoSru794_gV9NDzrzhk2PsJGThG23p&index=2&t">
-    Eatable 프로젝트 발표 영상</a>
+  <a href="https://www.youtube.com/watch?app=desktop&v=KxYGJm4qiCs&list=PLedGoSru794_gV9NDzrzhk2PsJGThG23p&index=2&t">
+   🔗Eatable 프로젝트 발표 영상</a>
 </p>
 
 <h3>Outline</h3>
