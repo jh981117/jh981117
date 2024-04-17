@@ -66,6 +66,7 @@
 
 <p>
   <strong>개발기간:</strong> 2024년 01월 26일 - 2024년 02월 26일<br>
+  
   <strong>핵심 역할:</strong> 백엔드 SpringBoot, JPA Entity 클래스 관계 설정, 웹소켓 서버를 이용한 실시간 대기열 추가 기능, RESTful API, 프론트엔드 React, AWS S3 이미지 저장 및 경로 데이터베이스 저장
 </p>
 <br>
@@ -91,10 +92,7 @@ AWS S3: 이미지 파일을 AWS S3에 저장하고 저장한 경로를 데이터
   <li>DB액션 처리: JDBC, MySQL, POSTMAN</li>
   <li>개발 Tool: Intellij, Git, GitHub, Google Drive</li>
 </ul>
-<hr>
-                  
-
-
+       
 
 <hr>
 <h1>GitHub Stats</h1>
