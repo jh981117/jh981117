@@ -55,6 +55,16 @@
 <h2>2. 🍽 음식점 실시간웨이팅 , 리뷰커뮤니티 , 간편한 업체 입점등록</h2>
 
 <p>
+  <a href="https://github.com/jh981117/EatTable_Backend">🔗 프론트엔드 바로가기</a> |
+  <a href="https://github.com/jh981117/Eatable_App_Frontend">🔗 백엔드 바로가기</a>
+</p>
+
+<p>
+  <a href="https://www.youtube.com/watch?app=desktop&v=KxYGJm4qiCs&list=PLedGoSru794_gV9NDzrzhk2PsJGThG23p&index=2&t">
+   🔗Eatable 프로젝트 발표 영상</a>
+</p>
+
+<p>
   <strong>개발기간:</strong> 2024년 01월 26일 - 2024년 02월 26일<br>
   <strong>핵심 역할:</strong> 백엔드 SpringBoot, JPA Entity 클래스 관계 설정, 웹소켓 서버를 이용한 실시간 대기열 추가 기능, RESTful API, 프론트엔드 React, AWS S3 이미지 저장 및 경로 데이터베이스 저장
 </p>
@@ -73,20 +83,7 @@ AWS S3: 이미지 파일을 AWS S3에 저장하고 저장한 경로를 데이터
 
 <h3>프로젝트 세부 내용</h3>
 이번 프로젝트에서는 백엔드에서 SpringBoot와 JPA를 활용하여 Entity 클래스들 간의 릴레이션을 설정하고, JWT 로그인을 구현하였습니다. 프론트엔드에서는 React를 사용하여 리뷰 타임라인, 사용자 간의 구독, 좋아요 기능 등을 개발하였습니다. 웹소켓 서버를 구현하여 프론트와 백엔드 서버의 실시간 통신으로 이용자가 대기열을 추가 할 시 관리자 페이지에서 대기열 리스트가 실시간으로 추가되게 하였습니다. AWS S3를 이용하여 이미지 파일을 저장하고 데이터베이스에 경로를 저장하는 방법을 사용하였으며, 깃허브를 협업 툴로 사용하여 팀원들과 함께 프로젝트를 진행하였습니다.
-<p>
-  <a href="https://github.com/jh981117/EatTable_Backend">🔗 프론트엔드 바로가기</a> |
-  <a href="https://github.com/jh981117/Eatable_App_Frontend">🔗 백엔드 바로가기</a>
-</p>
 
-<p>
-  <a href="https://www.youtube.com/watch?app=desktop&v=KxYGJm4qiCs&list=PLedGoSru794_gV9NDzrzhk2PsJGThG23p&index=2&t">
-   🔗Eatable 프로젝트 발표 영상</a>
-</p>
-
-<h3>Outline</h3>
-<p>
-  
-</p>
 <h3>Use Stack</h3>
 <ul>
   <li>프론트엔드: HTML, CSS, BootStrap, JavaScript</li>
