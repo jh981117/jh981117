@@ -36,7 +36,7 @@
 
 <p>
   <strong>기간:</strong> 2023년 11월 23일 - 2023년 12월 27일<br>
-  <strong>핵심 역할:</strong> 공공데이터 API, MySQL 데이터베이스 구축, Mybatis,Xml 활용 서치쿼리 작성 <br>
+  <strong>핵심 역할:</strong> 공공데이터 API, MySQL 데이터베이스 구축, Mybatis, Xml, thymeleaf 활용 서치쿼리 작성 <br>
   <strong>기술 스택:</strong> SpringBoot MVC, MyBatis, AWS EC2, AWS RDS, 카카오모빌리티 API, 구글 맵 API
 </p>
 <h3>프로젝트 개요</h3>
